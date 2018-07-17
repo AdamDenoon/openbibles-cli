@@ -1,0 +1,19 @@
+{
+  "name": "openbibles-cli",
+  "version": "1.0.0",
+  "description": "A command-line utility for the OpenBibles module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Denoon",
+  "license": "MIT",
+  "bin": {
+    "openbibles": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "openbibles": "^1.1.1"
+  }
+}

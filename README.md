@@ -13,9 +13,9 @@ Usage: openbibles [options] <reference>
 Options:
 
 	-t, --translation <translation>	The Bible translation to use
-	-o, --oneline 		Display all verses on one line
-	--no-color 		Don't color output
-	-h, --help 		output usage information
+	-o, --oneline 			Display all verses on one line
+	--no-color 			Don't color output
+	-h, --help 			output usage information
 ```
 
 ### Examples

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A command-line utility for the OpenBibles module",
   "repository": "https://github.com/AdamDenoon/openbibles-cli",
+  "keywords": ["open","bible","bibles","scripture","study","books","reading"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
